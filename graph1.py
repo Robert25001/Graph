@@ -124,7 +124,7 @@ config = Config(
     width=700,
     height=500,
     directed=False,
-    physics=False,   # désactivé pour respecter le layout calculé
+    physics=False,
     hierarchical=False,
 )
 
